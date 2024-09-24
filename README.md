@@ -1,4 +1,14 @@
-## Hi there 👋
+## Olá! Me chamo Carlos Felipe e sou fã da tecnologia! 😄
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/carlosf_c_s)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-felipe-de-carvalho-santiago-9a22001b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosIexe&show_icons=true&theme=dracula)
+
+## Habilidades 👨🏻‍💻
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <!--
 **CarlosIexe/CarlosIexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
